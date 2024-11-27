@@ -1,7 +1,7 @@
 # Hi there, I'm KarthiKeyan! 👋
 
 ## 🚀 About Me
-I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a passion for turning complex data into actionable insights and building innovative tech solutions. As a **fresher**, I'm eager to contribute my skills and grow in the tech industry.
+I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a strong foundation in **Full Stack Development**, **Database Management**, and **Website Development**. I enjoy crafting seamless user experiences, building robust backends, and exploring the intersection of data and technology to create meaningful solutions. 
 
 ## 💻 My Skillset
 - **Full Stack Development**: Experienced with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
