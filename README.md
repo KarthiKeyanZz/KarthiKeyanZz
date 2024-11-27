@@ -16,7 +16,7 @@
 
 🐍 **Python** and **Data Structures & Algorithms**  
 
-📊 **Data Analytics** , **Artificial Intelligence** and **Machine Learning** Algorithms 
+📊 **Data Analytics** , 🤖 **Artificial Intelligence** and ⚙️ **Machine Learning** Algorithms 
 
 🌐 **Full Stack Development** with a focus on the **MERN Stack**  
 
@@ -42,10 +42,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages i Know ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
