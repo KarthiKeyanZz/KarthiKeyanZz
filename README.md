@@ -27,7 +27,7 @@ I'm constantly upskilling to stay updated with the latest tech trends and best p
   ![expressJS Icon](https://img.icons8.com/office/40/express-js.png)
   ![ReactJS Icon](https://img.icons8.com/office/40/react.png)
   ![NodeJS](https://img.icons8.com/nolan/48/node-js.png)
-  ![Pycharm Icon]("https://img.icons8.com/color/48/pycharm--v2.png")
+  ![Pycharm Icon](https://img.icons8.com/color/48/pycharm--v2.png)
 
 ## 💡 Goals
 In the next 5 years, I aspire to be a **senior technology innovator**, making meaningful contributions to the tech industry while exploring avenues like blockchain and cryptocurrency as a secondary income source.
