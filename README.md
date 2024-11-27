@@ -7,6 +7,7 @@ I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a str
 - **Full Stack Development**: Experienced with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
 - **Data Science & Analytics**: Passionate about exploring data, uncovering patterns, and making data-driven decisions.
 - **Programming Languages**: Python, JavaScript, HTML5, CSS.
+- ![Python Icon](https://img.icons8.com/color/48/python--v1.png)
 
 ## 🌱 What I'm Learning
 I'm constantly upskilling to stay updated with the latest tech trends and best practices. Currently, I'm diving deeper into:
