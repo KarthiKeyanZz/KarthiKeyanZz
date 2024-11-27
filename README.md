@@ -27,7 +27,7 @@ In the next 5 years, I aspire to be a **senior technology innovator**, making me
 ## 📫 Connect With Me
 - **Email**: [![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pkarthi12k@gmail.com)
 - **LinkedIn**: [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-p-7822a4249/)
-- **GitHub**: [KarthiKeyanZz](https://github.com/KarthiKeyanZz)
+- **GitHub**: [![Git Hub Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarthiKeyanZz)
 
 ---
 
