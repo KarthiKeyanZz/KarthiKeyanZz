@@ -25,7 +25,7 @@ I'm constantly upskilling to stay updated with the latest tech trends and best p
 In the next 5 years, I aspire to be a **senior technology innovator**, making meaningful contributions to the tech industry while exploring avenues like blockchain and cryptocurrency as a secondary income source.
 
 ## 📫 Connect With Me
-- **Email**: [pkarthi12k@gmail.com]
+- **Email**: ![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(pkarthi12k@gmail.com)
 - **LinkedIn**: [KarthiKeyan P](https://www.linkedin.com/in/karthikeyan-p-7822a4249/)
 - **GitHub**: [KarthiKeyanZz](https://github.com/KarthiKeyanZz)
 
