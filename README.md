@@ -17,7 +17,6 @@ I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a str
 I'm constantly upskilling to stay updated with the latest tech trends and best practices. Currently, I'm diving deeper into:
 - Advanced Data Science Techniques
 - Blockchain Technology
-- UI/UX Design
 - Website Creation
 
 ## 🛠️ Tools & Technologies
