@@ -1,42 +1,76 @@
-# Hi there, I'm KarthiKeyan! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-## 🚀 About Me
-I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a strong foundation in **Full Stack Development**, **Database Management**, and **Website Development**. I enjoy crafting seamless user experiences, building robust backends, and exploring the intersection of data and technology to create meaningful solutions. 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-## 💻 My Skillset
-- **Full Stack Development**: Experienced with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
-- **Data Science & Analytics**: Passionate about exploring data, uncovering patterns, and making data-driven decisions.
-### I Code in
-  ![Html Icon](https://img.icons8.com/color/48/html-5.png)
-  ![CSS Icon](https://img.icons8.com/fluency/48/css3.png)
-  ![Javascript Icon](https://img.icons8.com/color/48/javascript--v1.png)
-  ![Python Icon](https://img.icons8.com/color/48/python--v1.png)
-  ![My SQL](https://img.icons8.com/color/48/mysql-logo.png)
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-## 🌱 What I'm Learning
-I'm constantly upskilling to stay updated with the latest tech trends and best practices. Currently, I'm diving deeper into:
-- Advanced Data Science Techniques
-- Blockchain Technology
-- Website Creation
-- Full-Stack App Development
+<br/>
 
-## 🛠️ Tools & Technologies
-  ![VS Code Icon](https://img.icons8.com/fluency/48/visual-studio.png)
-  ![Git Icon](https://img.icons8.com/color/48/git.png)
-  ![MongoDB Icon](https://img.icons8.com/color/48/mongo-db.png)
-  ![expressJS Icon](https://img.icons8.com/office/40/express-js.png)
-  ![ReactJS Icon](https://img.icons8.com/office/40/react.png)
-  ![NodeJS](https://img.icons8.com/nolan/48/node-js.png)
-  ![Pycharm Icon](https://img.icons8.com/color/48/pycharm--v2.png)
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-## 💡 Goals
-In the next 5 years, I aspire to be a **senior technology innovator**, making meaningful contributions to the tech industry while exploring avenues like blockchain and cryptocurrency as a secondary income source.
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-## 📫 Connect With Me
-[![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkarthi12k@gmail.com)        [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-p-7822a4249/)        [![Git Hub Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarthiKeyanZz)
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
----
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-> _"Stay curious, stay creative, and never stop building!"_
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate on exciting projects.
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
