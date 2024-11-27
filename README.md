@@ -67,6 +67,7 @@
 <hr/>
 
 <br/>
+> _"Stay curious, stay creative, and never stop building!"_
 
-
+Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate on exciting projects.
 <br/>
