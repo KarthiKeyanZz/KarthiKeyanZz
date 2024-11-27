@@ -1,0 +1,36 @@
+# Hi there, I'm KarthiKeyan! 👋
+
+## 🚀 About Me
+I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a passion for turning complex data into actionable insights and building innovative tech solutions. As a **fresher**, I'm eager to contribute my skills and grow in the tech industry.
+
+## 💻 My Skillset
+- **Full Stack Development**: Experienced with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
+- **Data Science & Analytics**: Passionate about exploring data, uncovering patterns, and making data-driven decisions.
+- **Programming Languages**: Python, JavaScript, HTML5, CSS.
+
+## 🌱 What I'm Learning
+I'm constantly upskilling to stay updated with the latest tech trends and best practices. Currently, I'm diving deeper into:
+- Advanced Data Science Techniques
+- Blockchain Technology
+- UI/UX Design
+- Website Creation
+
+## 🛠️ Tools & Technologies
+- **Frontend**: React.js, HTML5, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, SQL
+- **Other Tools**: Git, VS Code
+
+## 💡 Goals
+In the next 5 years, I aspire to be a **senior technology innovator**, making meaningful contributions to the tech industry while exploring avenues like blockchain and cryptocurrency as a secondary income source.
+
+## 📫 Connect With Me
+- **Email**: [pkarthi12k@gmail.com]
+- **LinkedIn**: [KarthiKeyan P](https://www.linkedin.com/in/karthikeyan-p-7822a4249/)
+- **GitHub**: [KarthiKeyanZz](https://github.com/KarthiKeyanZz)
+
+---
+
+> _"Stay curious, stay creative, and never stop building!"_
+
+Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate on exciting projects.
