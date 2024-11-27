@@ -12,7 +12,7 @@
 
 🎓 Holding a degree in **B.Tech in Artificial Intelligence and Data Science**  
 
-<h2>💻 Right now, I’m diving into:</h2>
+<h3>💻 Right now, I’m diving into:</h3>
 
 🐍 **Python** and **Data Structures & Algorithms**  
 
