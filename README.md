@@ -45,8 +45,15 @@
 <h2 align="center">⚒️ Languages i Know ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,mysql" />
+</div>
+
+<br/>
+<hr/>
+<h2 align="center">⚒️ Tools i Use ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,tensorflow,ps,npm,netlify,git,github,mongodb,express,react,nodejs" />
 </div>
 
 <br/>
