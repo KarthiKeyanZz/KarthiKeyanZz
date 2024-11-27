@@ -18,6 +18,7 @@ I'm constantly upskilling to stay updated with the latest tech trends and best p
 - Advanced Data Science Techniques
 - Blockchain Technology
 - Website Creation
+- Full-Stack App Development
 
 ## 🛠️ Tools & Technologies
 - **Frontend**: React.js, HTML5, CSS, JavaScript
