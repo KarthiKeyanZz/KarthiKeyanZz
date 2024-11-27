@@ -21,10 +21,12 @@ I'm constantly upskilling to stay updated with the latest tech trends and best p
 - Full-Stack App Development
 
 ## 🛠️ Tools & Technologies
-- **Frontend**: React.js, HTML5, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, SQL
-- **Other Tools**: Git, VS Code
+  ![VS Code Icon](https://img.icons8.com/fluency/48/visual-studio.png)
+  ![Git Icon](https://img.icons8.com/color/48/git.png)
+  ![MongoDB Icon](https://img.icons8.com/color/48/mongo-db.png)
+  ![expressJS Icon](https://img.icons8.com/office/40/express-js.png)
+  ![ReactJS Icon](https://img.icons8.com/office/40/react.png)
+  ![NodeJS](https://img.icons8.com/nolan/64/node-js.png)
 
 ## 💡 Goals
 In the next 5 years, I aspire to be a **senior technology innovator**, making meaningful contributions to the tech industry while exploring avenues like blockchain and cryptocurrency as a secondary income source.
