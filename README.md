@@ -67,7 +67,7 @@
 <hr/>
 
 <br/>
-> _"Stay curious, stay creative, and never stop building!"_
+<h2> "Stay curious, stay creative, and never stop building!" </h2>
 
-Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate on exciting projects.
+<p> Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate on exciting projects </p>
 <br/>
