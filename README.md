@@ -11,6 +11,7 @@ I'm a **B.Tech graduate in Artificial Intelligence and Data Science** with a str
   ![CSS Icon](https://img.icons8.com/fluency/48/css3.png)
   ![Javascript Icon](https://img.icons8.com/color/48/javascript--v1.png)
   ![Python Icon](https://img.icons8.com/color/48/python--v1.png)
+  ![My SQL](https://img.icons8.com/color/48/mysql-logo.png)
 
 ## 🌱 What I'm Learning
 I'm constantly upskilling to stay updated with the latest tech trends and best practices. Currently, I'm diving deeper into:
