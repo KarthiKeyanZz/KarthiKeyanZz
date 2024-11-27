@@ -14,11 +14,11 @@
 
 <h3>💻 Right now, I’m diving into:</h3>
 
-🐍 **Python** and **Data Structures & Algorithms**  
+🐍 **Python** and 🧩 **Data Structures & Algorithms**  
 
 📊 **Data Analytics** , 🤖 **Artificial Intelligence** and ⚙️ **Machine Learning** Algorithms 
 
-🌐 **Full Stack Development** with a focus on the **MERN Stack**  
+🌐 **Full Stack Development** with a focus on the 🌐 **MERN Stack**  
 
 🔗 **Blockchain Technology** to understand the future of decentralized systems  
 
