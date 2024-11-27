@@ -10,12 +10,16 @@
 
 <div align="center">
 
-🎓 Holding a degree in **B.Tech in Artificial Intelligence and Data Science**, I love exploring new technologies and learning how to solve problems through code.  
+🎓 Holding a degree in **B.Tech in Artificial Intelligence and Data Science**  
 
-💻 Right now, I’m diving into:  
+<h2>💻 Right now, I’m diving into:</h2>
+
 🐍 **Python** and **Data Structures & Algorithms**  
+
 📊 **Data Analytics** to uncover insights from data  
+
 🌐 **Full Stack Development** with a focus on the **MERN Stack**  
+
 🔗 **Blockchain Technology** to understand the future of decentralized systems  
 
 ✨ I’m all about experimenting, building, and learning something new every day. When I’m not coding, you’ll probably find me brainstorming ideas for cool projects or exploring the tech world! 🌟  
