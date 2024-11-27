@@ -9,14 +9,16 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+Holding a degree on **B.Tech in Artificial Intelligence and Data Science**. I love exploring new technologies and learning how to solve problems through code.  
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+Right now, I’m diving into:  
+- **Python** and **Data Structures & Algorithms**  
+- **Data Analytics** to uncover insights from data  
+- **Full Stack Development** with a focus on the **MERN Stack**  
+- **Blockchain Technology** to understand the future of decentralized systems  
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+I’m all about experimenting, building, and learning something new every day. When I’m not coding, you’ll probably find me brainstorming ideas for cool projects or exploring the tech world!  
+
 
  </div>
  
