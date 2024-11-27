@@ -16,7 +16,7 @@
 
 🐍 **Python** and **Data Structures & Algorithms**  
 
-📊 **Data Analytics** to uncover insights from data  
+📊 **Data Analytics** , **Artificial Intelligence** and **Machine Learning** Algorithms 
 
 🌐 **Full Stack Development** with a focus on the **MERN Stack**  
 
