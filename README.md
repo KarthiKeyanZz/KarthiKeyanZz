@@ -73,7 +73,7 @@
 <br>
 <div align=center>
     <div>
-          <img width=450 src="https://github-readme-stats.vercel.app/api?username=KarthiKeyanZz&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
+          <img width=450 src="https://github-readme-stats.vercel.app/api?username=KarthiKeyanZz&count_private=true&show_icons=true&theme=synthwave&border_radius=10" alt="readme stats" />
     </div>
   <br/>
     <div  style="padding-top:100px;">
