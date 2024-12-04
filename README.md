@@ -53,7 +53,7 @@
 <h2 align="center">⚒️ Tools i Use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,tensorflow,ps,npm,netlify,git,github,mongodb,express,react,nodejs,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,tensorflow,ps,npm,netlify,git,github,mongodb,express,react,nodejs,figma,tailwind" />
 </div>
 
 <br/>
