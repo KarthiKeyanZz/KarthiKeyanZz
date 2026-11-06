@@ -24,6 +24,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
+      # Runs first: the snake action is a root Docker container, so a dist/ it creates is not writable here.
+      - name: Generate stats card
+        run: python3 scripts/stats_card.py "${{ github.repository_owner }}" dist/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -31,11 +37,6 @@ jobs:
           outputs: |
             dist/snake.gif?color_snake=#ff7eb6&color_dots=#141a35,#1f4f7a,#2a8fb8,#3fbbdc,#5ee7ff&color_background=#0b0e1f&color_dot_border=#ffffff10
             dist/snake.svg?color_snake=#ff7eb6&color_dots=#141a35,#1f4f7a,#2a8fb8,#3fbbdc,#5ee7ff&color_background=#0b0e1f&color_dot_border=#ffffff10
-
-      - name: Generate stats card
-        run: python3 scripts/stats_card.py "${{ github.repository_owner }}" dist/stats.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
