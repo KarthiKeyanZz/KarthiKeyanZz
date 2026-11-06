@@ -1,0 +1,48 @@
+# Rebuilds the contribution snake and the stats card, then publishes them to the `output` branch.
+name: Generate snake and stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.gif?color_snake=#ff7eb6&color_dots=#141a35,#1f4f7a,#2a8fb8,#3fbbdc,#5ee7ff&color_background=#0b0e1f&color_dot_border=#ffffff10
+            dist/snake.svg?color_snake=#ff7eb6&color_dots=#141a35,#1f4f7a,#2a8fb8,#3fbbdc,#5ee7ff&color_background=#0b0e1f&color_dot_border=#ffffff10
+
+      - name: Generate stats card
+        run: python3 scripts/stats_card.py "${{ github.repository_owner }}" dist/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake and stats
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
