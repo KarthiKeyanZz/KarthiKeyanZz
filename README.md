@@ -16,7 +16,7 @@
 I build REST APIs and microservices in **Python (FastAPI)** and **Java (Spring Boot)**, then wire **LLMs and RAG** into them. My projects lean toward distributed systems, observability and security.
 
 ```yaml
-now:        Full Stack Developer @ Stackly
+now:        Full Stack Developer @ Global Tech Professionals
 before:     AI Developer @ Codec Technologies
 freelance:  3+ data analytics and ML client projects
 focus:      backend, LLM chatbots, event-driven systems
