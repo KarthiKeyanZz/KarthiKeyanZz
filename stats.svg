@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="t d" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+  <title id="t">GitHub activity and top languages</title>
+  <desc id="d">111 contributions and 42 active days in 12 months, 55 public repositories, longest streak 5 days. Top languages by code size: Java 37%, JavaScript 32%, Python 18%, TypeScript 11%, Rust 2%.</desc>
+  <style>
+    .bar { transform-box: fill-box; transform-origin: left; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) { .bar { animation: none; } }
+  </style>
+  <rect width="960" height="280" rx="12" fill="#0b0e1f"/>
+  <text x="32" y="38" font-size="15" font-weight="700" fill="#f4f1ff">Activity</text>
+  <text x="456" y="38" font-size="15" font-weight="700" fill="#f4f1ff">Top languages</text>
+  <text x="928" y="38" font-size="12" fill="#a3a6c9" text-anchor="end">share of code in public repos</text>
+  <rect x="32" y="60" width="196" height="92" rx="8" fill="#141a35" stroke="#2f3a78"/>
+  <text x="48" y="106" font-size="32" font-weight="700" fill="#f4f1ff">111</text>
+  <text x="48" y="132" font-size="13" fill="#a3a6c9">contributions, 1 year</text>
+  <rect x="240" y="60" width="196" height="92" rx="8" fill="#141a35" stroke="#2f3a78"/>
+  <text x="256" y="106" font-size="32" font-weight="700" fill="#f4f1ff">55</text>
+  <text x="256" y="132" font-size="13" fill="#a3a6c9">public repositories</text>
+  <rect x="32" y="164" width="196" height="92" rx="8" fill="#141a35" stroke="#2f3a78"/>
+  <text x="48" y="210" font-size="32" font-weight="700" fill="#f4f1ff">42</text>
+  <text x="48" y="236" font-size="13" fill="#a3a6c9">active days, 1 year</text>
+  <rect x="240" y="164" width="196" height="92" rx="8" fill="#141a35" stroke="#2f3a78"/>
+  <text x="256" y="210" font-size="32" font-weight="700" fill="#f4f1ff">5</text>
+  <text x="256" y="236" font-size="13" fill="#a3a6c9">longest streak, days</text>
+  <text x="556" y="85" font-size="13" fill="#f4f1ff" text-anchor="end">Java</text>
+  <rect class="bar" style="animation-delay:0ms" x="568" y="76" width="270" height="10" rx="4" fill="#5ee7ff"/>
+  <text x="850" y="85" font-size="13" fill="#a3a6c9">36.6%</text>
+  <text x="556" y="113" font-size="13" fill="#f4f1ff" text-anchor="end">JavaScript</text>
+  <rect class="bar" style="animation-delay:90ms" x="568" y="104" width="239" height="10" rx="4" fill="#5ee7ff"/>
+  <text x="850" y="113" font-size="13" fill="#a3a6c9">32.4%</text>
+  <text x="556" y="141" font-size="13" fill="#f4f1ff" text-anchor="end">Python</text>
+  <rect class="bar" style="animation-delay:180ms" x="568" y="132" width="134" height="10" rx="4" fill="#5ee7ff"/>
+  <text x="850" y="141" font-size="13" fill="#a3a6c9">18.1%</text>
+  <text x="556" y="169" font-size="13" fill="#f4f1ff" text-anchor="end">TypeScript</text>
+  <rect class="bar" style="animation-delay:270ms" x="568" y="160" width="82" height="10" rx="4" fill="#5ee7ff"/>
+  <text x="850" y="169" font-size="13" fill="#a3a6c9">11.2%</text>
+  <text x="556" y="197" font-size="13" fill="#f4f1ff" text-anchor="end">Rust</text>
+  <rect class="bar" style="animation-delay:360ms" x="568" y="188" width="11" height="10" rx="4" fill="#5ee7ff"/>
+  <text x="850" y="197" font-size="13" fill="#a3a6c9">1.5%</text>
+</svg>
